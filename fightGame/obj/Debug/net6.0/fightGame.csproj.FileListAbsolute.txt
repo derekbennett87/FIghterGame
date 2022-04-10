@@ -1,0 +1,15 @@
+C:\Users\derek\source\repos\fightGame\bin\Debug\net6.0\fightGame.exe
+C:\Users\derek\source\repos\fightGame\bin\Debug\net6.0\fightGame.deps.json
+C:\Users\derek\source\repos\fightGame\bin\Debug\net6.0\fightGame.runtimeconfig.json
+C:\Users\derek\source\repos\fightGame\bin\Debug\net6.0\fightGame.dll
+C:\Users\derek\source\repos\fightGame\bin\Debug\net6.0\ref\fightGame.dll
+C:\Users\derek\source\repos\fightGame\bin\Debug\net6.0\fightGame.pdb
+C:\Users\derek\source\repos\fightGame\obj\Debug\net6.0\fightGame.csproj.AssemblyReference.cache
+C:\Users\derek\source\repos\fightGame\obj\Debug\net6.0\fightGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derek\source\repos\fightGame\obj\Debug\net6.0\fightGame.AssemblyInfoInputs.cache
+C:\Users\derek\source\repos\fightGame\obj\Debug\net6.0\fightGame.AssemblyInfo.cs
+C:\Users\derek\source\repos\fightGame\obj\Debug\net6.0\fightGame.csproj.CoreCompileInputs.cache
+C:\Users\derek\source\repos\fightGame\obj\Debug\net6.0\fightGame.dll
+C:\Users\derek\source\repos\fightGame\obj\Debug\net6.0\ref\fightGame.dll
+C:\Users\derek\source\repos\fightGame\obj\Debug\net6.0\fightGame.pdb
+C:\Users\derek\source\repos\fightGame\obj\Debug\net6.0\fightGame.genruntimeconfig.cache

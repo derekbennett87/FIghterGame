@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ea68e8d5-66f5-4f73-bdc5-2b9bedf9d5e5": {
+      "ProjectGuid": "ea68e8d5-66f5-4f73-bdc5-2b9bedf9d5e5",
+      "DisplayName": "fightGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
